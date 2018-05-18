@@ -26,7 +26,7 @@ Pablo
 * Dan to solve read/write permissions issue
 * Dan to make a few of us admins
 * Mevan to write down Global Fact deliverables
-* All to start working in core repo in 3 working groups: newspapers, TV etc, social media
+* All to start working in core repo in 3 loose working groups around: newspapers, TV, social media.
 
 ## Global Fact Deliverables
 * To discuss our work on the TSC
