@@ -26,3 +26,8 @@ Pablo
 * Dan to make a few of us admins
 * Mevan to write down Global Fact deliverables
 * All to start working in core repo in 3 working groups: newspapers, TV etc, social media
+
+## Global Fact Deliverables
+* To discuss our work on the TSC
+* To take big questions from TSC to the wider factchecking community
+* If we can make it in time: demo Chequeado monitoring output in Full Fact tools, using a lightweight standard we agree here. The aim is to be able to show that a standard makes interoperability more possible. 
