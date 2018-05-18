@@ -21,7 +21,8 @@ Pablo
 
 ## Actions
 * Everyone to join Github
-* Mevan to carry over all the assets from Google Drive into Github into a reference repo
+* Everyone to watch/star the reference and core repos
+* Mevan to carry over all the assets from Google Drive into Github into reference repo
 * Dan to solve read/write permissions issue
 * Dan to make a few of us admins
 * Mevan to write down Global Fact deliverables
